@@ -1,0 +1,11 @@
+D:\webdemo\demo_model\bin\Debug\net7.0\demo_model.deps.json
+D:\webdemo\demo_model\bin\Debug\net7.0\demo_model.dll
+D:\webdemo\demo_model\bin\Debug\net7.0\demo_model.pdb
+D:\webdemo\demo_model\obj\Debug\net7.0\demo_model.GeneratedMSBuildEditorConfig.editorconfig
+D:\webdemo\demo_model\obj\Debug\net7.0\demo_model.AssemblyInfoInputs.cache
+D:\webdemo\demo_model\obj\Debug\net7.0\demo_model.AssemblyInfo.cs
+D:\webdemo\demo_model\obj\Debug\net7.0\demo_model.csproj.CoreCompileInputs.cache
+D:\webdemo\demo_model\obj\Debug\net7.0\demo_model.dll
+D:\webdemo\demo_model\obj\Debug\net7.0\refint\demo_model.dll
+D:\webdemo\demo_model\obj\Debug\net7.0\demo_model.pdb
+D:\webdemo\demo_model\obj\Debug\net7.0\ref\demo_model.dll
